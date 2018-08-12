@@ -10,7 +10,6 @@ namespace HelloWorldGit
     {
         static void Main(string[] args)
         {
-            //muster
             //reducting in github
             //commit from visual studio
             Console.WriteLine("Hello World!!!!");
